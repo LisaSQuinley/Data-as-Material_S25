@@ -28,7 +28,7 @@ p {
 }
 
 .para1, .para2 {
-    font-size: 0em;
+    font-size: 0.01em;
 }
 
 #chapter {
